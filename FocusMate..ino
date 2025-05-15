@@ -7,8 +7,8 @@
 
 const char* ssid = "F22";
 const char* password = "mdab23092004";
-const char* geminiApiKey = "AIzaSyAoBldyWImzjJ4tOZhZtK_WRb7Cp-lnI10";
-const char* googleTTSApiKey = "AIzaSyCYL1FqNQyrV_rgKHmDMF4ojhiIlah7q78";
+const char* geminiApiKey = "enteryourAPIKEY";
+const char* googleTTSApiKey = "enteryourAPIKEY";
 const char* host = "generativelanguage.googleapis.com";
 
 WebServer server(80);
