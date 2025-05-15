@@ -5,8 +5,8 @@
 #include <base64.h>
 #include <driver/dac.h>
 
-const char* ssid = "F22";
-const char* password = "mdab23092004";
+const char* ssid = "wifi_name";
+const char* password = "wifi_password";
 const char* geminiApiKey = "enteryourAPIKEY";
 const char* googleTTSApiKey = "enteryourAPIKEY";
 const char* host = "generativelanguage.googleapis.com";
